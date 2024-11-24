@@ -48,9 +48,9 @@ h2{
   }
   .image-row img {
     max-width: 400px;
-    max-height: 400px; /* Ограничение по высоте для обеспечения одинаковых пропорций */
+    max-height: 400px;
     border-radius: 1px;
-    object-fit: cover; /* Подгоняет изображение по размеру */
+    object-fit: cover;
   }
   .image-row {
     display: flex;
